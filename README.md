@@ -1,35 +1,20 @@
-# vue-todolist
+# Vue3 Todo List
 
-This template should help get you started developing with Vue 3 in Vite.
+這是一個使用 Vue3 Composition API 和 Pinia 構建的簡單 Todo List 應用。
 
-## Recommended IDE Setup
+## 連結
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+[Todo List Demo](https://livehighvu06.github.io/todo-list-vue/)
 
-## Customize configuration
+## 功能
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- 新增新的待辦事項
+- 標記待辦事項為已完成
+- 刪除待辦事項
+- 使用 Pinia 進行狀態管理
 
-## Project Setup
+## 使用技術
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- Vue3 Composition API
+- Pinia 用於狀態管理
+- GitHub Pages 用於部署
